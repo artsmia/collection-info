@@ -1,0 +1,7 @@
+---
+---
+<h1>Departments</h1>
+
+{% for department in site.departments %}
+<h2><a href="{{department.url}}">{{ department.name }}</a></h2>
+{% endfor %}

@@ -1,0 +1,9 @@
+collections:
+  departments:
+    output: true
+defaults:
+  -
+    scope:
+      path: "departments" 
+    values:
+      layout: "default"
