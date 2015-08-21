@@ -1,8 +1,15 @@
 ---
 ---
 {
-  {% for department in site.departments %}
-    "{{department.slug}}": {{ department | jsonify }}{% if forloop.last %}{% else %},{% endif %}
-  {% endfor %}
+  "departments": {
+    {% for department in site.departments %}
+      "{{department.slug}}": {{ department | jsonify }}{% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  },
+  "curators": {
+    {% for curator in site.curators %}
+      "{{curator.slug}}": {{ curator | jsonify }}{% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  }
 }
   

@@ -1,6 +1,8 @@
 ---
 name: Contemporary Art
 slug: contemporary
+curators:
+- chris-atkins
 ---
 
 In 2008 the MIA launched an initiative to focus on the art of our times. Through its new Department of Contemporary Art, the museum brings a fresh dynamism to its galleries by collecting and exhibiting works by living artists. This initiative emphasizes the relationships among historical art, diverse cultures, and contemporary art-making.
@@ -12,8 +14,3 @@ Contemporary art of the region continues to be represented by the Minnesota Arti
 ### Resources
 
 [Minnesota Artists Exhibition Program (MAEP)](http://new.artsmia.org/exhibitions/maep/)
-
-### Curators
-
-Christopher James Atkins  
-MAEP Coordinator

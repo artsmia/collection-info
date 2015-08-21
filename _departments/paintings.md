@@ -1,6 +1,7 @@
 ---
 name: Paintings
 slug: paintings
+curators: [patrick-noon]
 ---
 
 The MIA's internationally acclaimed collection of paintings contains nearly 900 European and American works from the fourteenth century to the present. It offers a comprehensive survey of both celebrated schools and individual artists and is notable for its concentration of masterworks.
@@ -16,8 +17,3 @@ The present paintings collection has been expanded in varied and often delightfu
 * [Restoring A Masterwork](http://www.artsmia.org/restoration-online)
 * [Restoring A Masterwork (YouTube)](http://www.youtube.com/watch?v=QMZ7XHuw9BI&feature=PlayList&p=347E03D63855FB63&index=0&playnext=1)
 * [Adopt a Painting](https://collections.artsmia.org/index.php?page=adopt)
-
-### Curators
-
-Patrick Noon  
-Patrick and Aimee Butler Chair of Paintings

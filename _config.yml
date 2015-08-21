@@ -1,6 +1,8 @@
 collections:
   departments:
     output: true
+  curators:
+    output: true
 defaults:
   -
     scope:

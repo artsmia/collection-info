@@ -1,6 +1,8 @@
 ---
 name: Japanese and Korean Art
 slug: jka
+curators:
+- andreas-marks
 ---
 
 The collection of Japanese and Korean art includes over 7,000 works ranging from ancient to contemporary and is amongst the top five collections in the United States. The permanent display space for Japanese art is the largest in the Western world with 15 galleries and over 10,000 square feet (930 sqm). The collection itself includes Buddhist sculpture, woodblock prints, paintings, lacquer, works of bamboo, and ceramics, and it is particularly rich in works from the Edo period (1610–1868).
@@ -24,10 +26,3 @@ Of notable strength is the collection of <i>ukiyo-e</i> paintings and prints, po
 - [Taoist Immortals (4 painted sliding doors) by Kanō Sansetsu (1589-1651)](https://collections.artsmia.org/index.php?page=detail&id=18574)
 - [Four Elegant Pastimes (pair of six-panel folding screens) by Shibata Zeshin (1807-1891)](https://collections.artsmia.org/index.php?page=detail&id=118455)
 - [12th-century Korean double-gourd ewer](https://collections.artsmia.org/index.php?page=detail&id=10020)
-
-### Curators
-
-Andreas Marks  
-Curator of Japanese and Korean Art  
-Japanese and Korean Art Department Head  
-Director of the Clark Center at the MIA  

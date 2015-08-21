@@ -1,6 +1,7 @@
 ---
 name: Art of Africa and the Americas
 slug: africa
+curators: ["jan-lodewijk-grootaers", "jill-ahlberg-yohe"]
 ---
 
 The Arts of Africa and the Americas Department is dedicated to the immense creativity of Native peoples across the world, from prehistory to the present. The collection has grown significantly since the department was founded more than thirty years ago, and now numbers more than 3,000 objects, including masterworks of sculpture, ceramics, metalsmithing, painting, basketry, and bead-, shell-, and quillwork, reflecting the diversity of these regions and cultures.
@@ -12,13 +13,3 @@ The Native American galleries are equally rich in examples of the highest qualit
 Our Oceanic collection contains world-class pieces, such as the Maori Poutokomanawa (Post Figure) created in the 1840s, the three fabulous Malagan figures, an early Papuan Gope Board, and the Bis Pole, a centerpiece of the gallery.
 
 ---
-
-### Curators
-
-Jan-Lodewijk Grootaers, PhD  
-Curator of African Art
-Head of the Arts of Africa and the Americas
-
-Jill Ahlberg Yohe, PhD  
-Assistant Curator of Native American Art
-

@@ -1,6 +1,10 @@
 ---
 name: Decorative Arts, Textiles & Sculpture
 slug: dats
+curators:
+- eike-schmidt
+- jennifer-komar-olivarez
+- nicole-labouff
 ---
 
 Originally established to focus on furniture, metalwork, ceramics, and glass, the department today encompasses more than 18,000 works in all mediums from America and Europe, from the Middle Ages to the present.
@@ -27,14 +31,3 @@ The department is strong in modernist design, including the Prairie School-style
 * [Tatra T87 (YouTube)](http://www.youtube.com/watch?v=cvSKFrMcVUE&feature=PlayList&p=2346A34E946C037F&index=0&playnext=1)
 * [Unified Vision: The Architecture and Design of the Prairie School](http://www.artsmia.org/unified-vision)
 * [Tour the Purcell-Cutts House](https://collections.artsmia.org/index.php?page=purcell-cutts#)
-
-### Curators
-
-Eike D. Schmidt, PhD  
-James Ford Bell Curator of Decorative Arts and Sculpture
-
-Jennifer Komar Olivarez  
-Curator of Decorative Arts and Design
-
-Nicole LaBouff, PhD  
-Assistant Curator of Textiles

@@ -1,6 +1,11 @@
 ---
 name: Prints and Drawings
 slug: prints
+curators:
+- dennis-michael-jon
+- rachel-mcgarry
+- thomas-rassieur
+- roberta-bartoli
 ---
 
 The Department of Prints &amp; Drawings keeps up an active program of thematic exhibitions, but it is also the MIA’s hidden treasure chest. At any given time, only a fraction of the museum’s collection of nearly 40,000 prints and 3,000 drawings is on view in the galleries. Nearly all, however, are available to the public in the comfort of the <a href="http://new.artsmia.org/visit/study-rooms/">Herschel V. Jones Print Study Room</a>. To prepare for your visit, please make an appointment by phone (612) 870-3105 or by e-mail (<a href="mailto:printstudy@artsmia.org">printstudy@artsmia.org</a>).
@@ -18,17 +23,3 @@ The <a href="http://new.artsmia.org/join-and-invest/affinity-groups/">Prints &a
 * [Prints & Drawings at the Minneapolis Institute of Arts](http://artsmia.org/prints-drawings/)
 * [Printmaking Processes (YouTube)](http://www.youtube.com/playlist?list=PL60EF8C723EACBBB7&feature=plcp)
 * [Red Grooms Talks About Dali Salad (YouTube)](http://www.youtube.com/watch?v=T3kkjpWhhgU)
-
-### Curators
-
-Dennis Michael Jon  
-Associate Curator
-
-Rachel McGarry, PhD  
-Associate Curator
-
-Thomas E. Rassieur  
-John E. Andrus III Curator of Prints and Drawings
-
-Roberta Bartoli, PhD  
-John E. Andrus III Curatorial Fellow

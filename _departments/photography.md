@@ -1,6 +1,8 @@
 ---
 name: Photography & New Media
 slug: photography
+curators:
+- david-little
 ---
 
 Begun in 1973, the MIA’s collection of photographs spans the history of photography from the 1860s to the present. Representing more than 800 photographers and 11,500 works of art, the collection has outstanding examples of twentieth-century American photography, with particular depth in the genres of documentary photography, photojournalism, and pictorialism. Since 2008, the museum has focused on expanding its holdings of contemporary photography and new media from all countries. This initiative increases the scope and relevance of the photography collection and enhances its links to the MIA’s diverse, global holdings.
@@ -17,8 +19,3 @@ Over the years, the Department of Photography &amp; New Media has been committed
 * [New Pictures](http://www.artsmia.org/new-pictures)
 * [Animal Locomotion: Eadweard Muybridge](http://www.artsmia.org/animal-locomotion)
 * [Get the Picture: Thinking About Photographs](http://www.artsmia.org/get-the-picture)
-
-### Curators
-
-David Little, PhD  
-Curator of Photography and New Media
