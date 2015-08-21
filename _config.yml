@@ -3,6 +3,8 @@ collections:
     output: true
   curators:
     output: true
+  affinity:
+    output: true
 defaults:
   -
     scope:

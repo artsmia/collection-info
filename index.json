@@ -10,6 +10,11 @@
     {% for curator in site.curators %}
       "{{curator.slug}}": {{ curator | jsonify }}{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
-  }
+  },
+  "affinityGroups": [
+    {% for ag in site.affinity %}
+      {{ ag | jsonify }}{% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  ]
 }
   
