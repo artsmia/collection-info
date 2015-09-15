@@ -15,6 +15,11 @@
     {% for ag in site.affinity %}
       {{ ag | jsonify }}{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
-  ]
+  ],
+  "pages": {
+    {% for page in site.pages %}
+      "{{ page.name | remove:'.md' }}": {{ page | jsonify }}{% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  }
 }
   

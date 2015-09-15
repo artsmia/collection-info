@@ -1,6 +1,6 @@
 ---
 title: Purcell—Cutts House
-search: "purcell cutts house"
+query: "purcell cutts house"
 ---
 
 The Purcell-Cutts House, designed and built by William Gray Purcell and George Grant Elmslie, is a masterpiece of Prairie School architecture. Located at 2328 Lake Place in Minneapolis, the house has been extensively restored and is now a part of the collection of the Minneapolis Institute of Art.
