@@ -3,6 +3,9 @@ name: Eike D. Schmidt
 slug: eike-schmidt
 photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/eike-d-schmidt.jpg
 department: Decorative Arts, Textiles, and Sculpture
+emeritus: true
+department: dats
+tenure: 2009-2015
 title: |
   James Ford Bell Curator of Decorative Arts and Sculpture
   Decorative Arts, Textiles, and Sculpture Department Head

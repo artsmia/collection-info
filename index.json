@@ -8,7 +8,9 @@
   },
   "curators": {
     {% for curator in site.curators %}
-      "{{curator.slug}}": {{ curator | jsonify }}{% if forloop.last %}{% else %},{% endif %}
+      {% if curator.emeritus == true %}{% else %}
+        "{{curator.slug}}": {{ curator | jsonify }}{% if forloop.last %}{% else %},{% endif %}
+      {% endif %}
     {% endfor %}
   },
   "affinityGroups": [

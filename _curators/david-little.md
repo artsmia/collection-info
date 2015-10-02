@@ -3,6 +3,9 @@ name: David E. Little
 slug: david-little
 photo: http://new.artsmia.org/wp-content/uploads/2014/08/DavidLittle.jpg
 department: Photography & New Media
+emeritus: true
+department: photography
+tenure: 2008-2015
 title: |
   Curator of Photography & New Media
   Photography & New Media Department Head

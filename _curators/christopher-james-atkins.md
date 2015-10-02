@@ -3,6 +3,9 @@ name: Christopher James Atkins
 slug: christopher-james-atkins
 photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/christopher-james-atkins.jpg
 department: Contemporary Art
+emeritus: true
+department: contemporary
+tenure: 2009-2015
 title: |
   MAEP Coordinator
 ---
