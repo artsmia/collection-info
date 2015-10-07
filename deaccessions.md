@@ -1,6 +1,6 @@
 ---
 title: Deaccessioned Art
-query: deaccessioned
+query: deaccessioned:true
 ---
 
 Accessioning and deaccessioning are terms used to describe the process of objects entering or leaving a museum collection. The MIA adheres to the Association of Art Museum Directors (AAMD) guidelines on deaccessioning objects. Information about deaccessioned objects will be added as it becomes available. Funds garnered through the sale of deaccessioned works of art will be reapplied towards the purchase of new works of art in each respective curatorial area.
