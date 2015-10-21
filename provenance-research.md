@@ -3,11 +3,11 @@ title: Provenance Reasearch at Mia
 query: _exists_:provenance
 ---
 
-The Minneapolis Institute of Arts is committed to conducting research on works in its permanent collection as an integral part of its mission. We recognize the importance of in-depth research relating to the events of World War II, and the Nazi-era appropriation of artwork throughout Europe. The museum has completed an assessment of the European paintings and Judaica acquired by the Institute since 1932. This survey was conducted in accordance with the recommendations set forth in December 1998 by the [Association of Art Museum Directors](http://www.aamd.org/) (AAMD) and the [guidelines provided by the American Association of Museums](http://www.aam-us.org/docs/default-source/professional-resources/nepip-recommended-procedures), issued in October 2000.
+The Minneapolis Institute of Art is committed to conducting research on works in its permanent collection as an integral part of its mission. We recognize the importance of in-depth research relating to the events of World War II, and the Nazi-era appropriation of artwork throughout Europe. The museum has completed an assessment of the European paintings and Judaica acquired by the Institute since 1932. This survey was conducted in accordance with the recommendations set forth in December 1998 by the [Association of Art Museum Directors](http://www.aamd.org/) (AAMD) and the [guidelines provided by the American Association of Museums](http://www.aam-us.org/docs/default-source/professional-resources/nepip-recommended-procedures), issued in October 2000.
 
 The findings posted here are limited to the artworks that were known to have transferred ownership during the crucial years of 1932-1946, or that contain gaps in provenance during that time. Artworks that have been "cleared" in the survey are also included.
 
-By making this information available to the public, the Minneapolis Institute of Arts is working to fulfill its mission of responsible stewardship of its collections, and to participate in the worldwide effort of identifying works of art looted during World War II. New information will be continuously added to this site, as further research into the collection is completed according to the AAM guidelines. The museum welcomes any information that may further clarify the provenance of artworks in its collection.
+By making this information available to the public, the Minneapolis Institute of Art is working to fulfill its mission of responsible stewardship of its collections, and to participate in the worldwide effort of identifying works of art looted during World War II. New information will be continuously added to this site, as further research into the collection is completed according to the AAM guidelines. The museum welcomes any information that may further clarify the provenance of artworks in its collection.
 
 ## Additional Information
 
@@ -26,13 +26,13 @@ Provenance research is a complex and arduous process, often undertaken by curato
 
 ### How to Read Provenance
 
-In writing provenance, the Minneapolis Institute of Arts has used the format suggested by the National Gallery of Art in Washington, D.C., for ease of readability.
+In writing provenance, the Minneapolis Institute of Art has used the format suggested by the National Gallery of Art in Washington, D.C., for ease of readability.
 
 The provenance for works of art are listed in chronological order, beginning with the earliest known owner. Life dates, if known, are enclosed in brackets. Dealers, auction houses, or agents are enclosed in parentheses to distinguish from private owners. Relationships between owners and methods of transactions are indicated by punctuation: a semicolon is used to indicate that the work passed directly between two owners (including dealers, auction houses, or agents), and a period is used to separate two owners (including dealers auction houses or agents) if a direct transfer did not occur or is not known to have occurred.  Footnotes are used to document or clarify information.
 
 ### Contact Information
 
-If you have information or wish to inquire about any of the works on the MIA's current list of European paintings or Judaica, please [e-mail us](http://new.artsmia.org/contact-us/e-mail-us/), or write to the Provenance Research Project, Minneapolis Institute of Arts, 2400 Third Avenue South, Minneapolis, Minnesota 55404.
+If you have information or wish to inquire about any of the works on Mia's current list of European paintings or Judaica, please [e-mail us](http://new.artsmia.org/contact-us/e-mail-us/), or write to the Provenance Research Project, Minneapolis Institute of Art, 2400 Third Avenue South, Minneapolis, Minnesota 55404.
 
 For more information on provenance research in American museums, see the [American Association of Museums guidelines for Nazi-era provenance](http://www.aam-us.org/museumresources/prov/procedures.cfm).
 

@@ -66,7 +66,7 @@ title: |
 
 	<li><em>Richard Parkes Bonington: The Complete Paintings</em> (New Haven and London: Yale University Press, 2008)</li>
 
-	<li><em>Alexander Roslin and the Comtesse D’Egmont Pignatelli</em> (Minneapolis: Minneapolis Institute of Arts, 2008)</li>
+	<li><em>Alexander Roslin and the Comtesse D’Egmont Pignatelli</em> (Minneapolis: Minneapolis Institute of Art, 2008)</li>
 
 	<li><em>Crossing the Channel: British and French Painting in the Age of Romanticism</em> (London: Tate Publications, 2003)</li>
 

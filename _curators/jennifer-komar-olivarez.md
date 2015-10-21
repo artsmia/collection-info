@@ -43,7 +43,7 @@ JENNIFER KOMAR OLIVAREZ: I lived there for about two-and-half years, not long af
 
 	<li><span style="line-height: 1.714285714; font-size: 1rem;">“A New Kind of Worship Space: Eero Saarinen’s Churches and Chapels,” essay in </span><i style="line-height: 1.714285714; font-size: 1rem;">Eero Saarinen: Shaping the Futur</i><span style="line-height: 1.714285714; font-size: 1rem;">e (New Haven: Yale University Press, 2006), pp. 266-275.</span></li>
 
-	<li><i style="line-height: 1.714285714; font-size: 1rem;">Progressive Design in the Midwest: The Purcell-Cutts House and the Prairie School Collection at The Minneapolis Institute of Arts</i><span style="line-height: 1.714285714; font-size: 1rem;">, (Minneapolis: The Minneapolis Institute of Art), 2000.</span></li>
+	<li><i style="line-height: 1.714285714; font-size: 1rem;">Progressive Design in the Midwest: The Purcell-Cutts House and the Prairie School Collection at The Minneapolis Institute of Art</i><span style="line-height: 1.714285714; font-size: 1rem;">, (Minneapolis: The Minneapolis Institute of Art), 2000.</span></li>
 
 	<li><span style="line-height: 1.714285714; font-size: 1rem;">“Bradstreet’s Craftshouse:  Retailing in an Arts and Crafts Style,” co-authored with Michael Conforti, in </span><i style="line-height: 1.714285714; font-size: 1rem;">Art and Life on the Upper Mississippi 1890-1915</i><span style="line-height: 1.714285714; font-size: 1rem;"> (Newark: University of Delaware Press), 1994, 63-91.</span></li>
 

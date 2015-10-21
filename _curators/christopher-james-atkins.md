@@ -24,7 +24,7 @@ title: |
 
 # Current_projects
 
-Working on upcoming exhibitions with Jennifer Danos, Natasha Pestich, and Marcus Young. Reviewing proposals for “MCAD@MIA,“ and planning for Northern Spark 2012. Visiting studios and reaching out to local artists.
+Working on upcoming exhibitions with Jennifer Danos, Natasha Pestich, and Marcus Young. Reviewing proposals for “MCAD@Mia,“ and planning for Northern Spark 2012. Visiting studios and reaching out to local artists.
 
 # Education
 
