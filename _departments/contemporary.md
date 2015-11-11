@@ -13,4 +13,4 @@ Contemporary art of the region continues to be represented by the Minnesota Arti
 
 ### Resources
 
-[Minnesota Artists Exhibition Program (MAEP)](http://new.artsmia.org/exhibitions/maep/)
+* [Minnesota Artists Exhibition Program (MAEP)](http://new.artsmia.org/exhibitions/maep/)
