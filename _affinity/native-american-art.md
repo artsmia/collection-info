@@ -12,7 +12,7 @@ encompasses nearly 1,500 objects from the major cultural regions across
 the continent, from ancient to contemporary times.
 
 Noted pieces include a Bella Coola frontlet from the Northwest Coast, an
-Anishinabe beaded blanket from Minnesota, a painted tipi cover from the
+Anishinaabe beaded blanket from Minnesota, a painted tipi cover from the
 Plains, and a ceramic and silver collection from the Southwest region.
 Recent acquisitions include a large, vibrantly painted kachina figure
 representing the [Butterfly
