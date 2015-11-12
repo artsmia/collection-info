@@ -1,6 +1,6 @@
 ---
 title: Conservation at Mia
-query: id:1270
+query: _exists_:"related:conservation"
 ---
 The Minneapolis Institute of Art’s campus houses the [Midwest Art Conservation Center (MACC)](http://www.preserveart.org/), an independent, non-profit regional center for the preservation and conservation of art and artifacts.
 
