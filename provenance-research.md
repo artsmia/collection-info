@@ -1,5 +1,5 @@
 ---
-title: Provenance Reasearch at Mia
+title: Provenance Research at Mia
 query: _exists_:provenance
 ---
 
