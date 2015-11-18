@@ -40,3 +40,7 @@ title: |
 
 ## Other
 - “I owe my love of art to a generous college professor who introduced me to the mesmerizing beauty of small-scale masterpieces. My mission is to offer others the opportunity to engage with works of art that will touch their hearts, arouse their curiosity, and spark their imaginations.”
+
+## Contact
+* (612) 870-3105
+* Twitter: [@MIAPrintGuy](https://twitter.com/MIAPrintGuy)

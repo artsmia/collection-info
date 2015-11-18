@@ -48,3 +48,6 @@ title: |
 ## Other
 - Favorite work of art in Mia: Rembrandt’s <em>Lucretia</em>
 - Favorite non-professional pastime: cycling
+
+## Contact
+* (612) 870-3111

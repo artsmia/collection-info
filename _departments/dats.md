@@ -31,3 +31,6 @@ The department is strong in modernist design, including the Prairie School-style
 * [Tatra T87 (YouTube)](http://www.youtube.com/watch?v=cvSKFrMcVUE&feature=PlayList&p=2346A34E946C037F&index=0&playnext=1)
 * [Unified Vision: The Architecture and Design of the Prairie School](http://www.artsmia.org/unified-vision)
 * [Tour the Purcell-Cutts House](https://collections.artsmia.org/index.php?page=purcell-cutts#)
+
+### Contact
+* Department Phone: (612) 870-3101

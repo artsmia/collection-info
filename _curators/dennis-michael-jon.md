@@ -37,3 +37,6 @@ Contemporary art; modern graphic art; German Expressionism; French, British, and
 
 ## Publications
 - Author, co-author, and contributor to ten books and numerous articles and essays, including the catalogue raisonné of the published prints and multiples of Vermillion Editions Limited, a Minneapolis-based collaborative printmaking workshop, whose archive is part of Mia’s permanent collection, (Minneapolis Institute of Art, 2006)
+
+##Contact
+* (612) 870-3105

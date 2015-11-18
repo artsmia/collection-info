@@ -43,3 +43,6 @@ JLG: The world is losing a great deal of Islamic artistic heritage, in Syria and
 - "Unresolved Mysteries: Two Couples from the Ubangi Region," in <em>Fragments of the Invisible: The René and Odette Delenne Collection of Congo Sculpture,</em> Cleveland &amp; Milan, 2013<
 - "<a href="http://dx.doi.org/10.2752/BEWDF/EDch1411">Mbuti Bark Cloth</a>" and "<a href="http://dx.doi.org/10.2752/BEWDF/EDch1412">Zande Bark Cloth</a>," The Berg Fashion Library online, 2012
 - "Snake, Bush, and Metaphor: Twinship among Ubangians," in Twins in <em>African and Diaspora Cultures: Double Trouble, Twice Blessed,</em> Bloomington, 2011
+
+##Contact
+* [jlgrootaer@artsmia.org](mailto:jlgrootaer@artsmia.org)

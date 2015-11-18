@@ -27,3 +27,6 @@ Within the galleries there are two Chinese period rooms including an original re
 
 * [Arts of Asia](http://www.artsmia.org/art-of-asia)
 * [Arts of Asia on YouTube](http://www.youtube.com/watch?v=z3L23_wCt8s&feature=PlayList&p=427D204B4E7C73BC&index=0&playnext=1)
+
+### Contact
+* Department Phone: (612) 870-3220

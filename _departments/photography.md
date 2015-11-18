@@ -19,3 +19,6 @@ Over the years, the Department of Photography &amp; New Media has been committed
 * [New Pictures](http://www.artsmia.org/new-pictures)
 * [Animal Locomotion: Eadweard Muybridge](http://www.artsmia.org/animal-locomotion)
 * [Get the Picture: Thinking About Photographs](http://www.artsmia.org/get-the-picture)
+
+### Contact
+* Department Phone: (612) 870-3255

@@ -41,3 +41,6 @@ YL: On a recent trip to China, we were told that more than a hundred museums are
 - <em>Masks of Mystery: Ancient Chinese Bronzes from Sanxingdui</em> (Sydney: Art Gallery of New South Wales, 2001)
 - <em>Fragrant Space: Chinese Flower and Bird Painting of the Ming and Qing Dynasties from the Guangdong Provincial Museum</em> (Sydney: Art Gallery of New South Wales, 2000)
 - <em>Lion Among Painters: Chinese Master Chang Dai-chien</em> (Sydney: Art Gallery of New South Wales, 1998)
+
+## Contact
+* (612) 870-3220

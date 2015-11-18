@@ -31,3 +31,7 @@ JENNIFER KOMAR OLIVAREZ: I lived there for about two-and-half years, not long af
 - “A New Kind of Worship Space: Eero Saarinen’s Churches and Chapels,” essay in <em>Eero Saarinen: Shaping the Future</em> (New Haven: Yale University Press, 2006), pp. 266-275.
 - <em>Progressive Design in the Midwest: The Purcell-Cutts House and the Prairie School Collection at The Minneapolis Institute of Art</em>, (Minneapolis: The Minneapolis Institute of Art), 2000.
 - “Bradstreet’s Craftshouse:  Retailing in an Arts and Crafts Style,” co-authored with Michael Conforti, in <em>Art and Life on the Upper Mississippi 1890-1915</em> (Newark: University of Delaware Press), 1994, 63-91.
+
+## Contact
+* (612) 870-3101
+* Twitter: [@jkomarolivarez](https://twitter.com/jkomarolivarez)

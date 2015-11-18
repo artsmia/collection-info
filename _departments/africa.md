@@ -12,3 +12,5 @@ The Native American galleries are equally rich in examples of the highest qualit
 Our Oceanic collection contains world-class pieces, such as a Maori Poutokomanawa (Post Figure) created in the 1840s, three fabulous Malagan figures, an early Papuan Gope Board, and the Bis Pole, a centerpiece of the gallery.
 
 ---
+### Contact
+* Department Phone: (612) 870-3286

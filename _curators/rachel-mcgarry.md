@@ -42,3 +42,7 @@ title: |
 ## Publications
 - Contributor to <em>Un grande maestro da riscoprire: Gregorio Guglielmi, pittore romano del Settecento</em>, exh. cat., (Rome: 2009)
 - “Guido Reni, Cardinal Federico Borromeo’s Reluctant Copyist,” Studia Borromaica, (2008)
+
+## Contact
+* (612) 870-3105
+* [rmcgarry@artsmia.org](mailto:rmcgarry@artsmia.org)

@@ -24,3 +24,6 @@ NL: <em>The Sartorialist</em>. I don’t read a lot of fashion magazines anymore
 Q: Many museums are developing fashion exhibitions now—and they’ve proven popular. Why do you think that is?
 
 NL: Museums are waking up to the fact that fashion is really relatable. The construction of garments, how people moved in them—a huge range of people can find a point of entry into these kinds of objects, even ones from distant historical epochs.
+
+## Contact
+* [nlabouff@artsmia.org](mailto:nlabouff@artsmia.org)

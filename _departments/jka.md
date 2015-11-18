@@ -27,3 +27,6 @@ Of notable strength is the collection of <i>ukiyo-e</i> paintings and prints, po
 - [Taoist Immortals (4 painted sliding doors) by Kanō Sansetsu (1589-1651)](https://collections.artsmia.org/index.php?page=detail&id=18574)
 - [Four Elegant Pastimes (pair of six-panel folding screens) by Shibata Zeshin (1807-1891)](https://collections.artsmia.org/index.php?page=detail&id=118455)
 - [12th-century Korean double-gourd ewer](https://collections.artsmia.org/index.php?page=detail&id=10020)
+
+### Contact
+* Department Phone: (612) 870-3214

@@ -22,3 +22,6 @@ The <a href="http://new.artsmia.org/join-and-invest/affinity-groups/">Prints &a
 * [Prints & Drawings at the Minneapolis Institute of Art](http://artsmia.org/prints-drawings/)
 * [Printmaking Processes (YouTube)](http://www.youtube.com/playlist?list=PL60EF8C723EACBBB7&feature=plcp)
 * [Red Grooms Talks About Dali Salad (YouTube)](http://www.youtube.com/watch?v=T3kkjpWhhgU)
+
+### Contact
+* Department Phone: (612) 870-3105

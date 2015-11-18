@@ -29,3 +29,6 @@ Andreas oversees Mia’s renowned collection of Japanese and Korean art. He came
 - <em>Publishers of Japanese Woodblock Prints: A Compendium.</em> Hotei, December 2010. 576 pp.
 - <em>Dreams and Diversions: 250 Years of Japanese Woodblock Prints at the San Diego Museum of Art.</em> Co‐editor with Sonya Quintanilla. With contributions by Hiroko Johnson, Howard Link, Andreas Marks, Okubo Jun’ichi, Sonya Quintanilla et al. San Diego Museum of Art and University of Washington Press, November 2010. 216 pp.
 - <em>Japanese Woodblock Prints: Artists, Publishers and Masterworks 1680–1900.</em> With an introduction by Stephen Addiss. Tuttle, May 2010. 336 pp. Awards received: CHOICE: Current Reviews for Academic Libraries Outstanding Academic Title 2010; ForeWord Reviews 2010 Book of the Year Award Finalist.
+
+##Contact
+* Ms. Allyssa Gregory, Administrative Assistant: (612) 870-3214, [agregory@artsmia.org](mailto:agregory@artsmia.org)

@@ -33,3 +33,7 @@ Jill: I firmly believe that contemporary Native American art is going to go main
 - Book Review of <em>Patterns of Exchange: Navajo Weavers and Traders</em>, by Teresa Wilkins, <em>KIVA: The Journal of Southwestern Anthropology and History</em>. 75:3, 2010.
 - "What Weavings Bring: The Social Value of Weaving Objects in Contemporary Navajo Life". Published for the Julian D. Hayden Student Paper Competition Award. <em>KIVA: The Journal of Southwestern Anthropology and History</em>. Vol 73:4<em>The Social Life of Weaving in Contemporary Navajo Life</em>. University of New Mexico Ph.D. Dissertation, 2008.
 - "The Social Role of Weaving in Contemporary Navajo Life". Invited Contribution to <em>Glyphs</em>, the Newsletter of the Arizona Archaeological and Historical Society, Tucson, Arizona, 2006.
+
+## Contact
+* (612) 870-3175
+* [jahlbergyohe@artsmia.org](mailto:jahlbergyohe@artsmia.org)
