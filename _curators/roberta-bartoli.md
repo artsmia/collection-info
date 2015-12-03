@@ -2,7 +2,8 @@
 name: Roberta Bartoli
 slug: roberta-bartoli
 photo: http://www.artsmia.org/UserFiles/Image/collection/curator-portraits/bartoli.jpg
-department: 
+department:
+emeritus: true 
 title: |
   John E. Andrus III Curatorial Fellow
 ---
