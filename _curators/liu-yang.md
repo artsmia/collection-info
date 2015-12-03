@@ -2,7 +2,7 @@
 name: Liu Yang
 slug: liu-yang
 photo: http://artsmia.org/UserFiles/Image/about-the-museum/news-info/LiuYang_lg.jpg
-department: China, South and Southeast Asian Art
+department: Chinese, South and Southeast Asian Art
 title: |
   Curator of Chinese Art
   Head of China, South and Southeast Asian Art

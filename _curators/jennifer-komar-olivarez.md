@@ -2,7 +2,7 @@
 name: Jennifer Komar Olivarez
 slug: jennifer-komar-olivarez
 photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/Olivarez.jpg
-department: Decorative Arts, Textiles, and Sculpture
+department: Decorative Arts, Textiles & Sculpture
 title: |
   Curator of Decorative Arts and Design
 ---

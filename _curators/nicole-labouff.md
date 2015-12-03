@@ -2,7 +2,7 @@
 name: Nicole LaBouff
 slug: nicole-labouff
 photo: http://new.artsmia.org/wp-content/uploads/2013/11/nicole_labouff.jpg
-department: Decorative Arts, Textiles, and Sculpture
+department: Decorative Arts, Textiles & Sculpture
 title: |
   Assistant Curator of Textiles
 ---
