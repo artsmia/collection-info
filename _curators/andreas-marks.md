@@ -31,4 +31,4 @@ Andreas oversees Mia’s renowned collection of Japanese and Korean art. He came
 - <em>Japanese Woodblock Prints: Artists, Publishers and Masterworks 1680–1900.</em> With an introduction by Stephen Addiss. Tuttle, May 2010. 336 pp. Awards received: CHOICE: Current Reviews for Academic Libraries Outstanding Academic Title 2010; ForeWord Reviews 2010 Book of the Year Award Finalist.
 
 ##Contact
-* Ms. Allyssa Gregory, Administrative Assistant: (612) 870-3214, [agregory@artsmia.org](mailto:agregory@artsmia.org)
+* Ms. Alyssa Gregory, Administrative Assistant: (612) 870-3214, [agregory@artsmia.org](mailto:agregory@artsmia.org)
