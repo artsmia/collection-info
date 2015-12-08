@@ -42,5 +42,5 @@ YL: On a recent trip to China, we were told that more than a hundred museums are
 - <em>Fragrant Space: Chinese Flower and Bird Painting of the Ming and Qing Dynasties from the Guangdong Provincial Museum</em> (Sydney: Art Gallery of New South Wales, 2000)
 - <em>Lion Among Painters: Chinese Master Chang Dai-chien</em> (Sydney: Art Gallery of New South Wales, 1998)
 
-## Contact
-* (612) 870-3220
+##Contact
+* Ms. Camille Erickson, Administrative Assistant: (612) 870-3220, [cerickson@artsmia.org](mailto:cerickson@artsmia.org)
