@@ -45,7 +45,7 @@ You don’t have to adopt a work all on your own, either! You and friends, famil
 Here is the step-by-step process of the Adopt-a-Painting Program:
 
 1. Choose the painting or frame (or both!) that you would like to adopt.
-2. Contact Nicole (nwankel@artsmia.org; 612-870-3111) and tell her which work you’ve chosen.
+2. Contact Nicole (ncdupree@artsmia.org; 612-870-3111) and tell her which work you’ve chosen.
 3. Decide whether you would like to be credited - Anonymous? Your name(s)? In honor of someone?
 4. We will then send you a dossier packet on your selected work. This includes the condition report and treatment proposal, color prints of the work in its current "before" state, and relevant background information on the object.
 5. At some point during the treatment, we’ll invite you to the conservation lab for a meeting with the conservator and the curator.
@@ -58,5 +58,5 @@ If you have questions, please call the department and we’ll be happy to
 help.
 
 Nicole
-nwankel@artsmia.org
+ncdupree@artsmia.org
 612-870-3111
