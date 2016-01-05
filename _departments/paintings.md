@@ -16,7 +16,7 @@ The present paintings collection has been expanded in varied and often delightfu
 
 * [Restoring A Masterwork](http://www.artsmia.org/restoration-online)
 * [Restoring A Masterwork (YouTube)](http://www.youtube.com/watch?v=QMZ7XHuw9BI&feature=PlayList&p=347E03D63855FB63&index=0&playnext=1)
-* [Adopt a Painting](https://collections.artsmia.org/info/adopt-a-painting)
+* [Adopt-a-Painting: a way to participate in the process of restoration](https://collections.artsmia.org/info/adopt-a-painting)
 
 ### Contact
 * Department Phone: (612) 870-3111

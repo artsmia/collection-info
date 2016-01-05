@@ -4,7 +4,7 @@ slug: patrick-noon
 photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/patrick-noon.jpg
 department: Paintings
 title: |
-  Patrick and Aimee Butler Chair of Paintings
+  Elizabeth MacMillan Chair of Paintings
   Paintings Department Head
 ---
 
