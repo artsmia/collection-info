@@ -14,7 +14,7 @@ As part of the adoption process, you’ll receive the following:
 * A color photo of the sponsor with the adopted object installed in the gallery.
 * A credit line on the gallery label giving recognition to the adoptive sponsor, good for five years.
 
-As a valued supporter of our curatorial department and the MIA, we thank you in advance for your consideration.
+As a valued supporter of our curatorial department and Mia, we thank you in advance for your consideration.
 
 Thank you for your commitment to this museum!
 
