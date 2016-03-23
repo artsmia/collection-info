@@ -4,7 +4,7 @@ slug: jan-lodewijk-grootaers
 photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/Grootaers.jpg
 department: Art of Africa and the Americas
 title: |
-  Curator of African Art
+  Curator of African Art  
   Arts of Africa and the Americas Department Head
 ---
 
