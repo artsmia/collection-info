@@ -9,7 +9,7 @@ The Department of Chinese and South and Southeast Asian Art has benefited greatl
 
 Some of the first works of art to enter the museum’s collection were from South (India, Bangladesh, Sri Lanka, Pakistan, Nepal, Bhutan, and Afghanistan) and Southeast Asia (Cambodia, Laos, Myanmar, Thailand, Malaysia, Vietnam, Singapore, Indonesia, Brunei and the Philippines), beginning in 1914 when Charles Freer donated several Thai Buddhist sculptures.  In 1929 Sarah Bell Pillsbury Gale gave the museum its first major Indian work of art, a 12th century bronze (ca. 1100) Dancing Shiva (Nataraja).  The highlight of the South Asian collection is a [monumental stone Yogini sculpture](http://collections.artsmia.org/art/1380) from 10<span style="font-size: 11px;">th</span> century south India. Today the South Asian collection numbers about 150 objects and the Southeast Asian collection numbers around 183.
 
-Within the galleries there are two Chinese period rooms including an [original reception hall from the late Ming dynasty](http://collections.artsmia.org/art/9413) and a [ca. 1700 Suzchou-area library](http://collections.artsmia.org/art/12134).
+Within the galleries there are two Chinese period rooms including an [original reception hall from the late Ming dynasty](http://collections.artsmia.org/art/9413) and a [Suzchou-area library (1797)](http://collections.artsmia.org/art/12134).
 
 ---
 
