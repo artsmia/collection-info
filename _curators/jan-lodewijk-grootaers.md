@@ -10,6 +10,18 @@ title: |
 
 Jan-Lodewijk came to Mia in 2008 as its first curator of African art. He led the innovative reinstallation of Mia’s African galleries in 2013, making artworks more accessible through design and technology. He has broadened the collection through numerous acquisitions, including pieces from Somalia and Ethiopia—the Twin Cities has large immigrant communities from the Horn of Africa—and West African masks and ornaments donated by William Siegmann from Minneapolis. A native of Belgium, Jan-Lodewijk studied cultural anthropology at the University of Chicago for his PhD, specializing in central Africa. His fieldwork on the beliefs of the Zande people in the Central African Republic eventually led to his groundbreaking 2007 exhibition, “Ubangi: Art and Cultures from the African Heartland,” at the Afrika Museum, in the Netherlands. At Mia, his “iAfrica” show (2009) experimented with multisensory experiences, while “Visions from the Forest: The Art of Liberia and Sierra Leone” (2014) offered a timely forum on the ravages of Ebola. His upcoming “Islamic Africa: Religious Art and Architecture” showcases the diversity and uniqueness of artistic expression in African Islam.
 
+Q: You came to art through anthropology. How did that happen?
+
+JAN-LODEWIJK GROOTAERS: I taught high school science in Gabon and Zimbabwe in the mid-1980s, sparking my interest in Africa and its cultures. Then I spent 14 months in the Central African Republic for my anthropological fieldwork, investigating what remained of the Zande belief system described in Witchcraft, Oracles and Magic Among the Azande, a classic anthropology text based on research done in the late 1920s. But it was only as I was finishing my dissertation that I became interested in African art, when I was invited to contribute to an exhibition of musical instruments from central Africa at the Musée de la Musique in Paris.
+
+Q: You helped put part of central Africa, the Ubangi region, on the African art map. Why was it overlooked?
+
+JLG: The Ubangi region, which covers parts of the Democratic Republic of Congo and the Central African Republic, is home to the Zande people and their neighbors. Long considered uninteresting by collectors and curators alike, Ubangian art was generally described as unattractive and little was understood of its aesthetic principles. When I was creating an exhibition of art from this region at the Afrika Museum in the Netherlands, I discovered a lot of unknown Ubangian pieces in museum storage facilities all over Europe, where they had lain somewhat “neglected” for many decades. My exhibition was the first to substantially explore this art and show the crucial role of ritual practices in its creation and spread.
+
+Q: How has the wave of Islamic fundamentalism in Africa affected art on the continent?
+
+JLG: The world is losing a great deal of Islamic artistic heritage, in Syria and Iraq but also in African countries such as Mali, where fundamentalists destroyed ancient Sufi tombs in Timbuktu in 2012. Muslims in Nigeria are getting rid of their Qur’anic prayer boards that show stylized animals, because they fear retribution from groups like Boko Haram. But the beauty of African Islam lies precisely in its fusion of Muslim themes and principles with local artistic forms and aesthetics. It is this unique combination that will be celebrated in an exhibition I am currently working on.
+
 ## Current Projects
 - Curating "The Fierce &amp; the Fancy: Urban Masks from Sierra Leone," a display of awesome and masks, March-November 2016.
 - Curating the upcoming exhibition “Islamic Africa: Religious Art and Architecture,” opening in 2018.
