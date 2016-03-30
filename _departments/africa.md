@@ -16,5 +16,6 @@ The Oceanic collection contains world-class pieces, including a [Maori post fig
 [Mia’s Affinity Groups](http://new.artsmia.org/join-and-invest/affinity-groups/) are a great way for museum members to connect more closely with special areas of art interest, allowing you to delve deeper into the curatorial area of your choice.
 
 ---
+
 ### Contact
 * Department Phone: (612) 870-3286
