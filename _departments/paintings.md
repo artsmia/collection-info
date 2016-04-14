@@ -1,7 +1,7 @@
 ---
 name: Paintings
 slug: paintings
-curators: [patrick-noon]
+curators: [patrick-noon, robert-cozzolino]
 ---
 
 Mia's internationally acclaimed collection of paintings contains nearly 900 European and American works from the fourteenth century to the present. It offers a comprehensive survey of both celebrated schools and individual artists and is notable for its concentration of masterworks.
