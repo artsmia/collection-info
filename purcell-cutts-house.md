@@ -13,6 +13,8 @@ The house is open to the public the second weekend of each month. Special tours 
 
 Admission is $5 for adults; $4 for students and seniors; and free to Mia members and children 12 and under.
 
+[Purchase Tickets](https://tickets.artsmia.org/ItemList.aspx?node_id=15361)
+
 The Purcell-Cutts House is not wheelchair accessible, and stairs located in and around the Purcell-Cutts House may pose navigational difficulties for individuals with limited mobility. However, an extensive online tour of the Purcell-Cutts House is available on the [Unified Vision][1] Web site.
 
 For auxiliary services and devices, other accessibility questions, reservations and more information, call (612) 870-3000, or (888) 642-2787 (ext.6323), or stop by any Visitor Services Desks at the Minneapolis Institute of Art.
