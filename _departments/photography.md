@@ -1,5 +1,5 @@
 ---
-name: Photography & New Media
+name: Photography and New Media
 slug: photography
 curators:
 - david-little

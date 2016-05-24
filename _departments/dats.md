@@ -1,5 +1,5 @@
 ---
-name: Decorative Arts, Textiles & Sculpture
+name: Decorative Arts, Textiles and Sculpture
 slug: dats
 curators:
 - eike-schmidt
@@ -19,7 +19,7 @@ Sculpture from the Middle Ages to 1960 includes important works by [Amedeo Modig
 
 The [Harold and Mickey Smith Gallery (362) features one of the most comprehensive permanent collections of Jewish ritual art found in an American art museum](http://collections.artsmia.org/search/G362). Rotations include prints, photographs, and textiles. Purchases of modern and contemporary Judaica are made possible by the [Eloise and Elliot Kaplan Fund for Judaica](http://collections.artsmia.org/search/creditline:%22The%20Eloise%20and%20Elliot%20Kaplan%20Endowment%20for%20Judaica%22).
 
-The department is strong in modernist design, including the [Prairie School-style <em>Purcell-Cutts House</em> (1913), designed by William Gray Purcell and George Grant Elmslie for the Purcell family](http://collections.artsmia.org/info/purcell-cutts). In addition, Mia houses one of the best collections of Prairie School material in the country, presented in the [Bob Ulrich and Jill Dahlin Architecture and Design Gallery (355)](http://collections.artsmia.org/search/G355). The Norwest Modernism Collection is a major component of the department’s holdings, comprising nearly 500 objects dating from 1880 to 1940. In recent decades, the department has built up a significant collection of contemporary studio ceramics, glass, and wood. A current focus is design of the Scandinavian and Nordic countries. Mia continues to showcase these collections at the Wells Fargo Center in downtown Minneapolis. On the Web, they are represented by the award-winning sites <a href="http://http//www.artsmia.org/unified-vision/">Unified Vision: The Architecture and Design of the Prairie School</a> and <a href="http://www.artsmia.org/modernism/">Modernism</a>.
+The department is strong in modernist design, including the [Prairie School-style <em>Purcell-Cutts House</em> (1913), designed by William Gray Purcell and George Grant Elmslie for the Purcell family](http://collections.artsmia.org/info/purcell-cutts). In addition, Mia houses one of the best collections of Prairie School material in the country, presented in the [Bob Ulrich and Jill Dahlin Architecture and Design Gallery (355)](http://collections.artsmia.org/search/G355). The Norwest Modernism Collection is a major component of the department’s holdings, comprising nearly 500 objects dating from 1880 to 1940. In recent decades, the department has built up a significant collection of contemporary studio ceramics, glass, and wood. A current focus is design of the Scandinavian and Nordic countries. Mia continues to showcase these collections at the Wells Fargo Center in downtown Minneapolis. On the Web, they are represented by the award-winning sites <a href="http://www.artsmia.org/unified-vision/">Unified Vision: The Architecture and Design of the Prairie School</a> and <a href="http://www.artsmia.org/modernism/">Modernism</a>.
 
 ---
 
