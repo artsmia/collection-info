@@ -18,7 +18,7 @@ As a valued supporter of our curatorial department and Mia, we thank you in adva
 
 Thank you for your commitment to this museum!
 
-Patrick and Nicole
+[Patrick Noon](/curators/patrick-noon), [Robert Cozzolino](/curators/robert-cozzolino), and Heather Everhart
 
 ---
 
@@ -46,18 +46,18 @@ You don’t have to adopt a work all on your own, either! You and friends, famil
 Here is the step-by-step process of the Adopt-a-Painting Program:
 
 1. Choose the painting or frame (or both!) that you would like to adopt.
-2. Contact Nicole (ncdupree@artsmia.org; 612-870-3111) and tell her which work you’ve chosen.
+2. Contact Heather (heverhart@artsmia.org; 612-870-3111) and tell her which work you’ve chosen.
 3. Decide whether you would like to be credited - Anonymous? Your name(s)? In honor of someone?
 4. We will then send you a dossier packet on your selected work. This includes the condition report and treatment proposal, color prints of the work in its current "before" state, and relevant background information on the object.
 5. At some point during the treatment, we’ll invite you to the conservation lab for a meeting with the conservator and the curator.
 6. When the work is complete, you will be sent an invoice along with the treatment report and an offer for a photo shoot, if you'd like, with the painting when it returns to the galleries.
-7. Send your payment for the treatment to Nicole and we’ll send you photographs of your cleaned, adopted painting, along with a formal acknowledgment of your tax-deductible contribution.
+7. Send your payment for the treatment to Heather and we’ll send you photographs of your cleaned, adopted painting, along with a formal acknowledgment of your tax-deductible contribution.
 
 That’s it! Pretty painless!
 
 If you have questions, please call the department and we’ll be happy to
 help.
 
-Nicole
-ncdupree@artsmia.org
+Heather
+Heather Everhart <heverhart@artsmia.org>
 612-870-3111
