@@ -2,6 +2,7 @@
 name: Contemporary Art
 slug: contemporary
 curators:
+- gabriel-ritter
 - christopher-james-atkins
 ---
 

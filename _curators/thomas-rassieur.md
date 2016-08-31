@@ -8,39 +8,7 @@ title: |
   Prints and Drawings Department Head
 ---
 
-## Background
-- Minneapolis Institute of Art since 2009
-- Pamela and Peter Voss Curator of Prints and Drawings, Museum of Fine Arts, Boston
-- Curatorial Assistant, Prints and Photographs, Metropolitan Museum of Art
+Tom came to Mia in 2009 from the Museum of Fine Arts, Boston, where he was the Pamela and Peter Voss Curator of Prints and Drawings. He has curated or co-curated thirty exhibitions, most prominently those dealing with Rembrandt. “Rembrandt’s Journey: Painter, Draftsman, Etcher” opened at the Museum of Fine Arts, Boston, in 2003 before traveling to the Art Institute of Chicago. “Rembrandt in America” opened at the North Carolina Museum of Art, Raleigh, in 2011, and continued to the Cleveland Art Museum and Mia. His writings on Rembrandt’s creative process as an etcher formed the basis of the Rembrandt House Museum’s exhibition celebrating the artist’s 400th birthday. Rassieur has also curated or co-curated exhibitions on German Renaissance prints, with an emphasis on Albrecht Dürer, for Mia, the Metropolitan Museum of Art, the Saint Louis Art Museum, and the Museum of Fine Arts, Boston/Nagoya. He coauthored Master Drawings from the Minneapolis Institute of Arts, and he has brought back to light the work of Richard Holzschuh, a talented storybook illustrator whose last exhibition was in 1929. With four German organizations, he has organized the exhibition “Martin Luther: Art and the Reformation,” marking the 500th anniversary of Martin Luther’s “Ninety-Five Theses.”
 
-## Current Projects
-- "Rembrandt in America," an exhibition featuring the largest group of authentic Rembrandt paintings ever brought together in America, on view at Mia from Jun. 24-Sep. 16, 2012. Organized by Mia in conjunction with the Cleveland Museum of Art and the North Carolina Museum of Art.
-- "Albrecht Dürer's <em>Melencolia</em>". This exhibition focuses on a single engraving, a consummate Renaissance masterpiece recently acquired by Mia.
-
-## Education
-- MA, Institute of Fine Arts, New York University
-- BA, Princeton University
-
-## Honors
-- Samuel F. B. Morse Fellow, Institute of Fine Arts, New York University
-- Print Council of America trustee
-- American Association of Museum Curators
-- Curators of Dutch Art
-
-## Publications
-- Preface to <em>Erik Desmazières Etchings 2002-2011.</em> Andrew Fitch, ed., Fitch-Febvrel Gallery, New York, 2011
-- “Degas/Hiroshige,” <em>Print Quarterly</em>, vol. 28 (2011), 429-31.
-- <em>Rembrandt in America</em>, with George Keyes, Jon Seydl, and Dennis Weller. North Carolina Museum of Art, Raleigh; Cleveland Museum of Art, and Minneapolis Institute of Art. New York: 2011
-- Preface to <em>The Thrivent Financial for Lutherans Collection of Religious Art</em>, exhibition catalogue, Joanna Reiling Lindell, ed. Minneapolis: 2011
-- "Chapters in Rembrandt's Life as a Printmaker,"<em> Pursuit of Faith: Etchings by Rembrandt from the Thrivent Financial Collection of Religious Art, </em>exhibition catalogue, Shelley Perlove, editor (Alfred Berkowitz Gallery, University of Michigan-Dearborn, 2010)
-- <em>Rhythms of Modern Life: British Prints 1914-1939</em>, with Clifford S. Ackley and Samantha Rippner, (Boston: 2008)
-- <em>Rembrandt’s Etchings: the Embrace of Darkness and Light</em>, (Nagoya/Boston Museum of Fine Arts, Nagoya: 2007)
-- <em>Albrecht Dürer, Renaissance Printmaker</em>, (Nagoya/Boston Museum of Fine Arts, Nagoya: 2003)
-- <em>Rembrandt’s Journey: Painter•Draftsman•Etcher</em>, with Clifford S. Ackley, Ronni Baer, and William W. Robinson, (Boston: 2003)
-
-## Other
-- “I owe my love of art to a generous college professor who introduced me to the mesmerizing beauty of small-scale masterpieces. My mission is to offer others the opportunity to engage with works of art that will touch their hearts, arouse their curiosity, and spark their imaginations.”
-
-## Contact
-* (612) 870-3105
-* Twitter: [@MIAPrintGuy](https://twitter.com/MIAPrintGuy)
+Contact: 612.870.3105
+Twitter: [@MIAPrintGuy](http://twitter.com/MIAPrintGuy)

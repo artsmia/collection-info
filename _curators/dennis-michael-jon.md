@@ -4,43 +4,9 @@ slug: dennis-michael-jon
 photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/dennis-michael-jon.jpg
 department: Prints and Drawings
 title: |
-  Associate Curator
+  Senior Associate Curator in the Department of Prints and Drawings
 ---
-## Background
-- Minneapolis Institute of Art since 1990
-- Chazen Museum of Art, Madison, Wis., 1983-84
 
-## Current Projects
-- Organizing an exhibition of on thye history of the horse in art
-- Organizing an exhibition on the use of serial imagery in contemporary printmaking
-- Conducting preliminary field research on modern and contemporary
-  collage/assemblage
+Dennis has more than 25 years of museum-based experience as a curator, art historian, and educator. A specialist in modern, postwar, and contemporary works on paper and artists’ books, he has organized and overseen more than 65 exhibitions, exploring such subjects as labor and industry, war and its consequences, homicide, art and nature, spirituality, the book as art object, and the history of the American Presidency. His exhibit projects have included solo presentations of the work of Robert Rauschenberg, Richard Hamilton, Ed Ruscha, Eduardo Paolozzi, John Cage, May Stevens, Michael Mazur, James Castle, Alexander Calder, Marc Chagall, Pablo Picasso, Joan Mirό, Anders Zorn, and James McNeil Whistler. He has authored and co-authored more than a dozen books and numerous articles and essays on subjects related to his specialization, including the catalogue raisonné of the published prints and multiples of Vermillion Editions Limited, a Minneapolis-based collaborative print workshop, whose archive is part of Mia’s permanent collection. Dennis completed his undergraduate studies at the University of Wisconsin–Madison and received his MA in modern and contemporary art history from the University of Minnesota–Twin Cities.
 
-## Education
-- M.A., University of Minnesota - Minneapolis
-- Hunter College, New York, graduate coursework
-- B.A., B.S., University of Wisconsin - Madison
-
-## Specialty
-
-Contemporary and modern graphic art and book arts; German Expressionism; Latin American art; French, British, and American etching revival
-
-## Honors
-- University of Minnesota Graduate Fellowship in Art History, 1986-88
-- Leadership Twin Cities, Minneapolis, Class of 2008-9
-- Print Council of America, Washington, D.C., trustee
-- Association of Art Museum Curators, New York
-- Association of Art Historians, London
-- College Art Association, New York
-- American Alliance of Museums, Washington, D.C.
-- Highpoint Center for Printmaking, Minneapolis, board member, 2000-present
-- Foundation for the Exhibition of Photography, Minneapolis and Paris, executive board member, 2006-11
-
-## Publications
-- Author, co-author, and contributor to more than a dozen books and
-  numerous articles and essays, most recently the exhibition catalogue
-  *James Castle: The Experience of Every Day* (Minneapolis Institute of
-  Art, 2016).
-
-##Contact
-* (612) 870-3105
+Contact: 612.870.3105

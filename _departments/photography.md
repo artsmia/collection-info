@@ -2,6 +2,7 @@
 name: Photography and New Media
 slug: photography
 curators:
+- yasufumi-nakamori
 - david-little
 ---
 

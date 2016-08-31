@@ -1,7 +1,9 @@
 ---
 name: Art of Africa and the Americas
 slug: africa
-curators: ["jan-lodewijk-grootaers", "jill-ahlberg-yohe"]
+curators:
+- jan-lodewijk-grootaers
+- jill-ahlberg-yohe
 ---
 
 The Arts of Africa and the Americas Department is dedicated to the immense creativity of Native peoples across the world, from prehistory to the present. The collection has grown significantly since the department was founded more than 30 years ago, and now numbers more than 5,500 objects, including masterworks of sculpture, ceramics, textiles, metalsmithing, painting, basketry, and bead-, shell-, and quillwork, reflecting the diversity of these regions and cultures.
