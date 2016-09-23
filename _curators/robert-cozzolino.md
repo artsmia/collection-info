@@ -1,7 +1,6 @@
 ---
 name: Robert Cozzolino
 slug: robert-cozzolino
-photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/robert-cozzolino.jpg
 department: Paintings
 title: Patrick and Aimee Butler Curator of Paintings
 cv: robert-cozzolino.doc

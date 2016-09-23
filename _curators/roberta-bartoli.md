@@ -1,7 +1,6 @@
 ---
 name: Roberta Bartoli
 slug: roberta-bartoli
-photo: http://www.artsmia.org/UserFiles/Image/collection/curator-portraits/bartoli.jpg
 department:
 emeritus: true
 tenure: 2011-2015

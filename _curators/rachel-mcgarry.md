@@ -1,7 +1,6 @@
 ---
 name: Rachel McGarry
 slug: rachel-mcgarry
-photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/rachel-mcgarry.jpg
 department: Prints and Drawings
 title: |
   Associate Curator of Prints and Drawings

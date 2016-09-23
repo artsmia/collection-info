@@ -1,7 +1,6 @@
 ---
 name: Patrick Noon
 slug: patrick-noon
-photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/patrick-noon.jpg
 department: Paintings
 title: |
   Senior Curator of Paintings

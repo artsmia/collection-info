@@ -1,7 +1,6 @@
 ---
 name: Liu Yang
 slug: liu-yang
-photo: http://artsmia.org/UserFiles/Image/about-the-museum/news-info/LiuYang_lg.jpg
 department: Chinese, South and Southeast Asian Art
 title: |
   Curator of Chinese Art

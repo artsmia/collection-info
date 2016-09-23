@@ -1,7 +1,6 @@
 ---
 name: Yasufumi Nakamori
 slug: yasufumi-nakamori
-photo:
 department: Curator and Head of the Department of Photography and New Media
 title: |
   Curator and Head of the Department of Photography and New Media

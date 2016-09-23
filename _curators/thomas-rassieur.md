@@ -1,7 +1,6 @@
 ---
 name: Thomas E. Rassieur
 slug: thomas-rassieur
-photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/Rassieur.jpg
 department: Prints and Drawings
 title: |
   John E. Andrus III Curator of Prints and Drawings

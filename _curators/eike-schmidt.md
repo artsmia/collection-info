@@ -1,7 +1,6 @@
 ---
 name: Eike D. Schmidt
 slug: eike-schmidt
-photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/eike-d-schmidt.jpg
 department: Decorative Arts, Textiles & Sculpture
 emeritus: true
 department: dats

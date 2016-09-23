@@ -1,7 +1,6 @@
 ---
 name: Jill Ahlberg Yohe
 slug: jill-ahlberg-yohe
-photo: http://new.artsmia.org/wp-content/uploads/2014/09/jill_yohe.jpg
 department: Art of Africa and the Americas
 title: |
   Assistant Curator of Native American Art

@@ -1,7 +1,6 @@
 ---
 name: Aaron Rio
 slug: aaron-rio
-photo: http://new.artsmia.org/collections/wp-content/uploads/sites/8/2016/01/aaron-rio-bio.jpg
 department: Japanese and Korean Art
 title: |
   Andrew W. Mellon Assistant Curator of Japanese and Korean Art

@@ -1,7 +1,6 @@
 ---
 name: Kaywin Feldman
 slug: kaywin-feldman
-photo: undefined
 department: undefined
 title: Duncan and Nivin MacMillan Director and President
 ---

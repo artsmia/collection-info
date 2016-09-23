@@ -1,7 +1,6 @@
 ---
 name: Matthew Welch
 slug: matthew-welch
-photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/Welch.jpg
 department: Director's Office
 title: |
   Deputy Director & Chief Curator

@@ -1,7 +1,6 @@
 ---
 name: Gabriel Ritter
 slug: gabriel-ritter
-photo:
 department: Contemporary Art
 title: |
   Curator and Head of Contemporary Art

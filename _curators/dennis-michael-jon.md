@@ -1,7 +1,6 @@
 ---
 name: Dennis Michael Jon
 slug: dennis-michael-jon
-photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/dennis-michael-jon.jpg
 department: Prints and Drawings
 title: |
   Senior Associate Curator in the Department of Prints and Drawings

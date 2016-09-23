@@ -1,7 +1,6 @@
 ---
 name: Andreas Marks
 slug: andreas-marks
-photo: http://new.artsmia.org/wp-content/uploads/sites/2/2013/08/marks-e1376497629827.jpg
 department: Japanese and Korean Art
 title: |
   Curator of Japanese and Korean Art

@@ -1,7 +1,6 @@
 ---
 name: Jennifer Komar Olivarez
 slug: jennifer-komar-olivarez
-photo: http://artsmia.org/UserFiles/Image/collection/curator-portraits/Olivarez.jpg
 department: Decorative Arts, Textiles & Sculpture
 title: |
   Head of Exhibition Planning and Strategy
