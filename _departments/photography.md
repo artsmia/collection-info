@@ -3,7 +3,6 @@ name: Photography and New Media
 slug: photography
 curators:
 - yasufumi-nakamori
-- david-little
 ---
 
 Begun in 1973, Mia’s collection of photographs spans the history of photography from the 1860s to the present. Representing more than 800 photographers and 11,500 works of art, the collection has outstanding examples of twentieth-century American photography, with particular depth in the genres of documentary photography, photojournalism, and pictorialism. Since 2008, the museum has focused on expanding its holdings of contemporary photography and new media from all countries. This initiative increases the scope and relevance of the photography collection and enhances its links to Mia’s diverse, global holdings.

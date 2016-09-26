@@ -2,9 +2,8 @@
 name: Decorative Arts, Textiles and Sculpture
 slug: dats
 curators:
-- eike-schmidt
-- jennifer-komar-olivarez
 - nicole-labouff
+- jennifer-komar-olivarez
 ---
 
 Originally established to focus on furniture, metalwork, ceramics, and glass, the department today encompasses more than 18,000 works in all mediums from America and Europe, from the Middle Ages to the present.
