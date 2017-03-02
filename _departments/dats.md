@@ -2,6 +2,7 @@
 name: Decorative Arts, Textiles and Sculpture
 slug: dats
 curators:
+- ghenete-zelleke
 - nicole-labouff
 - jennifer-komar-olivarez
 ---
