@@ -2,6 +2,7 @@
 name: Aaron Rio
 slug: aaron-rio
 department: Japanese and Korean Art
+cv: aaron-rio.pdf
 title: |
   Andrew W. Mellon Assistant Curator of Japanese and Korean Art
 ---
