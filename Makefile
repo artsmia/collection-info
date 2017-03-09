@@ -1,3 +1,5 @@
+SHELL := bash
+
 deploy:
 	bundle exec jekyll build
 	scp _site/index.json collections:/var/www/info/
@@ -6,3 +8,10 @@ deploy:
 
 renameCuratorCVs:
 	rename --nows --lower-case -d 'cv' -d '2016' -d '__' -S '_' '-' _curators/cv/*
+
+curatorsCvStatus:
+	@echo -e "curator							has cv?\n"
+	@diff -y \
+			<(ag -lv emeritus _curators/*.md | xargs -n 1 basename | sed 's/.md//' | sort) \
+			<(find _curators/cv -type f | xargs -n 1 basename | cut -d'.' -f1 | sort) \
+  | sed 's/-/ /g'
