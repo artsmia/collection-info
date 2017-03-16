@@ -1,7 +1,11 @@
 SHELL := bash
 
-deploy:
+default: build deploy
+
+build:
 	bundle exec jekyll build
+
+deploy:
 	scp _site/index.json collections:/var/www/info/
 	rsync -avz _curators/cv/* collections:/var/www/info/cv/
 	rsync -avz _curators/portraits/* collections:/var/www/info/curator-portraits/
