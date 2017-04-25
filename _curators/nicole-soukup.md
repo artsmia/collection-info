@@ -3,8 +3,7 @@ name: Nicole Soukup
 slug: nicole-soukup
 department: Contemporary Art
 title: |
-  Assistant Curator of Contemporary Art and the Minnesota Artist
-  Exhibition Project Coordinator
+  Assistant Curator of Contemporary Art and the Minnesota Artist Exhibition Project Coordinator
 cv: nicole-soukup.pdf
 ---
 

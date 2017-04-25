@@ -3,7 +3,6 @@ name: Chinese, South and Southeast Asian Art
 slug: cssaa
 curators:
 - liu-yang
-- atreyee-gupta
 ---
 
 The Department of Chinese and South and Southeast Asian Art has benefited greatly from generous gifts from knowledgeable collectors. [Augustus L. Searle](http://collections.artsmia.org/search/creditline:%22Augustus%20L.%20Searle%22), [Alfred F. Pillsbury](http://collections.artsmia.org/search/creditline:%22Alfred%20F.%20Pillsbury%22), [Richard P. Gale](http://collections.artsmia.org/search/creditline:%22Richard%20P.%20Gale%22), [Louis W. Hill, Jr.](http://collections.artsmia.org/search/creditline:%22Louis%20W.%20Hill,%20Jr.%22), and [Ruth and Bruce Dayton](http://collections.artsmia.org/search/creditline:%22Ruth%20and%20Bruce%20Dayton%22) have donated collections of international reputation. These include ancient Chinese bronzes, ancient and post-Song jade, Chinese monochrome ceramics, and classical Chinese furniture. In addition, curators have built exquisite collections of Qing dynasty silk textiles and Miao textiles.
