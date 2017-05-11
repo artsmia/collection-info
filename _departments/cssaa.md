@@ -20,7 +20,7 @@ Within the galleries there are two Chinese period rooms including an [original r
 * [Bronze statue Shiva Nataraja (Lord of the Dance), Chola period](https://collections.artsmia.org/index.php?page=detail&id=376)
 * [Statue of a Yogini holding a jar, Chola period](https://collections.artsmia.org/index.php?page=detail&id=1380)
 * [Jade Mountain Illustrating the Gathering of Scholars at the Lanting Pavillion, Qing dynasty](https://collections.artsmia.org/index.php?page=detail&id=4324)
-* [Gowri Shankaram Necklace, 19^th^ century, India](https://collections.artsmia.org/index.php?page=detail&id=4379)
+* [Gowri Shankaram Necklace, 19th century, India](https://collections.artsmia.org/index.php?page=detail&id=4379)
 * [Sculpture of the Bodhisattva Guanyin, Song dynasty](https://collections.artsmia.org/index.php?page=detail&id=5788)
 
 ### Resources
