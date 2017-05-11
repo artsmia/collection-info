@@ -17,4 +17,5 @@ Contemporary art of the region continues to be represented by the Minnesota Arti
 * [Minnesota Artists Exhibition Program (MAEP)](http://new.artsmia.org/exhibitions/maep/)
 
 ### Contact
-* Department Phone: (612) 870-6362
+
+Camille Erickson, administrative assistant: 612.870.3035 / [cerickson@artsmia.org](mailto:cerickson@artsmia.org)
