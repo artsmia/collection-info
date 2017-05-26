@@ -3,7 +3,6 @@ name: Chinese, South and Southeast Asian Art
 slug: cssaa
 curators:
 - liu-yang
-- atreyee-gupta
 ---
 
 The Department of Chinese and South and Southeast Asian Art has benefited greatly from generous gifts from knowledgeable collectors. [Augustus L. Searle](http://collections.artsmia.org/search/creditline:%22Augustus%20L.%20Searle%22), [Alfred F. Pillsbury](http://collections.artsmia.org/search/creditline:%22Alfred%20F.%20Pillsbury%22), [Richard P. Gale](http://collections.artsmia.org/search/creditline:%22Richard%20P.%20Gale%22), [Louis W. Hill, Jr.](http://collections.artsmia.org/search/creditline:%22Louis%20W.%20Hill,%20Jr.%22), and [Ruth and Bruce Dayton](http://collections.artsmia.org/search/creditline:%22Ruth%20and%20Bruce%20Dayton%22) have donated collections of international reputation. These include ancient Chinese bronzes, ancient and post-Song jade, Chinese monochrome ceramics, and classical Chinese furniture. In addition, curators have built exquisite collections of Qing dynasty silk textiles and Miao textiles.
@@ -21,7 +20,7 @@ Within the galleries there are two Chinese period rooms including an [original r
 * [Bronze statue Shiva Nataraja (Lord of the Dance), Chola period](https://collections.artsmia.org/index.php?page=detail&id=376)
 * [Statue of a Yogini holding a jar, Chola period](https://collections.artsmia.org/index.php?page=detail&id=1380)
 * [Jade Mountain Illustrating the Gathering of Scholars at the Lanting Pavillion, Qing dynasty](https://collections.artsmia.org/index.php?page=detail&id=4324)
-* [Gowri Shankaram Necklace, 19^th^ century, India](https://collections.artsmia.org/index.php?page=detail&id=4379)
+* [Gowri Shankaram Necklace, 19th century, India](https://collections.artsmia.org/index.php?page=detail&id=4379)
 * [Sculpture of the Bodhisattva Guanyin, Song dynasty](https://collections.artsmia.org/index.php?page=detail&id=5788)
 
 ### Resources
@@ -30,4 +29,5 @@ Within the galleries there are two Chinese period rooms including an [original r
 * [Arts of Asia on YouTube](http://www.youtube.com/watch?v=z3L23_wCt8s&feature=PlayList&p=427D204B4E7C73BC&index=0&playnext=1)
 
 ### Contact
-* Department Phone: (612) 870-3220
+
+Tim Zhang, administrative assistant: [612.870.3220](tel:612.870.3220) / [tzhang@artsmia.org](mailto:tzhang@artsmia.org)
