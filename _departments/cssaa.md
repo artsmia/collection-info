@@ -30,4 +30,4 @@ Within the galleries there are two Chinese period rooms including an [original r
 
 ### Contact
 
-Tim Zhang, administrative assistant: [612.870.3220](tel:612.870.3220) / [tzhang@artsmia.org](mailto:tzhang@artsmia.org)
+[Department of Chinese, South and Southeast Asian Art at Mia](mailto:cssaa@artsmia.org)

@@ -11,4 +11,4 @@ Yang came to Mia in 2011 and oversees one of the finest wide-ranging collections
 
 ### Contact
 
-Tim Zhang, administrative assistant: [612.870.3220](tel:612.870.3220) / [tzhang@artsmia.org](mailto:tzhang@artsmia.org)
+[Department of Chinese, South and Southeast Asian Art at Mia](mailto:cssaa@artsmia.org)
