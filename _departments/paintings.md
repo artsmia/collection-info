@@ -21,4 +21,6 @@ The present paintings collection has been expanded in varied and often delightfu
 * [Adopt-a-Painting: a way to participate in the process of restoration](https://collections.artsmia.org/info/adopt-a-painting)
 
 ### Contact
+<paintings@artsmia.org>    
 * Department Phone: (612) 870-3111
+
