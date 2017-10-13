@@ -18,4 +18,6 @@ The Oceanic collection contains world-class pieces, including a [Maori post fig
 ---
 
 ### Contact
+* Department Email: aaa@artsmia.org
 * Department Phone: (612) 870-3286
+
