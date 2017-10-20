@@ -31,4 +31,5 @@ Within the galleries there are two Chinese period rooms including an [original r
 
 ### Contact
 
-[Department of Chinese, South and Southeast Asian Art at Mia](mailto:cssaa@artsmia.org)
+Allie Mickle: AMickle@artsmia.org
++1 612 870 3220
