@@ -43,7 +43,7 @@ title: Duncan and Nivin MacMillan Director and President
 
 0
 
-# 
+#
 
 <div title="Page 1">
 
@@ -96,9 +96,3 @@ Feldman previously served as director of the <a href="http://brooksmuseum.org/">
 	<li><a href="http://www.minnpost.com/books/2010/06/what-theyre-reading-kaywin-feldman">MinnPost: "'What they're reading' -- Kaywin Feldman"</a></li>
 
 </ul>
-
-# Contact
-
-Twitter: <a href="https://twitter.com/kaywinfeldman">@kaywinfeldman</a>
-
-

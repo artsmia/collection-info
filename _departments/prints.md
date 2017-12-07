@@ -24,4 +24,6 @@ The <a href="http://new.artsmia.org/join-and-invest/affinity-groups/">Prints &a
 * [Red Grooms Talks About Dali Salad (YouTube)](http://www.youtube.com/watch?v=T3kkjpWhhgU)
 
 ### Contact
-* Department Phone: (612) 870-3105
+Kristin Lenaburg, Study Room and Collections Manager
+Email: [printstudy@artsmia.org](mailto:printstudy@artsmia.org)
+Phone: (612) 870-3113

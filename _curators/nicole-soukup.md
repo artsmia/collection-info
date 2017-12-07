@@ -21,4 +21,6 @@ from the University of Minnesota—Morris, Nicole earned an MA from the
 University of Florida, focusing her thesis research on the role of
 photography and film in American Modernism.
 
-Contact: nsoukup@artsmia.org, 612.870.6362.
+### Contact
+Email: [nsoukup@artsmia.org](mailto:nsoukup@artsmia.org)
+Phone: (612) 870-6362
