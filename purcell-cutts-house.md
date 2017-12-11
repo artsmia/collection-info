@@ -33,7 +33,7 @@ The house is open to the public the second weekend of each month. Special tours 
 
 Admission is $5 for adults; $4 for students and seniors; and free to Mia members and children 12 and under.
 
-[Purchase Tickets](https://tickets.artsmia.org/ItemList.aspx?node_id=15361)
+[Purchase Tickets](https://tickets.artsmia.org/)
 
 The Purcell-Cutts House is not wheelchair accessible, and stairs located in and around the Purcell-Cutts House may pose navigational difficulties for individuals with limited mobility. However, an extensive online tour of the Purcell-Cutts House is available on the [Unified Vision][1] Web site.
 
