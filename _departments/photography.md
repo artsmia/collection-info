@@ -21,6 +21,9 @@ Over the years, the Department of Photography &amp; New Media has been committed
 * [Get the Picture: Thinking About Photographs](http://www.artsmia.org/get-the-picture)
 
 ### Contact
+
 Joseph Doherty, Study Room and Collections Manager
+
 Email: [PNM@artsmia.org](mailto:PNM@artsmia.org)
+
 Phone: (612) 870-3255

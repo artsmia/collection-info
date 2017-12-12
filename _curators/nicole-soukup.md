@@ -22,5 +22,7 @@ University of Florida, focusing her thesis research on the role of
 photography and film in American Modernism.
 
 ### Contact
+
 Email: [nsoukup@artsmia.org](mailto:nsoukup@artsmia.org)
+
 Phone: (612) 870-6362

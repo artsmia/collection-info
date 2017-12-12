@@ -29,6 +29,9 @@ Of notable strength is the collection of <i>ukiyo-e</i> paintings and prints, po
 - [12th-century Korean double-gourd ewer](https://collections.artsmia.org/index.php?page=detail&id=10020)
 
 ### Contact
+
 Yuko Ralston, Curatorial Department Assistant
+
 Email: [JKA@artsmia.org](mailto:JKA@artsmia.org)
+
 Phone: (612) 870-3214

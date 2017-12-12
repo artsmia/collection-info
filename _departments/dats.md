@@ -33,6 +33,9 @@ The department is strong in modernist design, including the [Prairie School-styl
 * [Tour the Purcell-Cutts House](https://collections.artsmia.org/index.php?page=purcell-cutts#)
 
 ### Contact
+
 Abbey Thomsen, Curatorial Department Assistant
+
 Email: [DATS@artsmia.org](mailto:dats@artsmia.org)
+
 Phone: (612) 870-3101

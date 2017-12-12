@@ -30,6 +30,9 @@ Within the galleries there are two Chinese period rooms including an [original r
 * [Arts of Asia on YouTube](http://www.youtube.com/watch?v=z3L23_wCt8s&feature=PlayList&p=427D204B4E7C73BC&index=0&playnext=1)
 
 ### Contact
+
 Allie Mickle, Curatorial Department Assistant
+
 Email: [CSSAA@artsmia.org](mailto:cssaa@artsmia.org)
+
 Phone: (612) 870-3220

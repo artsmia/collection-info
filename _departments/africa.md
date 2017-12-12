@@ -18,6 +18,9 @@ The Oceanic collection contains world-class pieces, including a [Maori post fig
 ---
 
 ### Contact
+
 Tobie Miller, Curatorial Department Assistant and Artist Liaison
+
 Email: [aaa@artsmia.org](mailto:aaa@artsmia.org)
+
 Phone: (612) 870-3286

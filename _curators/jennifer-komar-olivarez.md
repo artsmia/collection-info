@@ -11,6 +11,9 @@ Jennifer joined the Minneapolis Institute of Art in 1991 as an intern, and has s
 
 
 ### Contact
+
 Email: [DATS@artsmia.org](mailto:dats@artsmia.org)
+
 Phone: (612) 870-3101
+
 Twitter: [@jkomarolivarez](http://twitter.com/jkomarolivarez)
