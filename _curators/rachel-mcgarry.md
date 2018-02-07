@@ -10,6 +10,6 @@ Rachel came to Mia in 2006. A Minnesota native, she grew up in Deephaven, where 
 
 ### Contact
 
-Email: [mcgarry@artsmia.org](mailto:mcgarry@artsmia.org)
+Email: [rmcgarry@artsmia.org](mailto:rmcgarry@artsmia.org)
 
 Phone: 612.870.3105
