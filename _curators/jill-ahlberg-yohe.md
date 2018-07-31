@@ -3,7 +3,7 @@ name: Jill Ahlberg Yohe
 slug: jill-ahlberg-yohe
 department: Art of Africa and the Americas
 title: |
-  Assistant Curator of Native American Art
+  Associate Curator of Native American Art 
 cv: jill-ahlberg-yohe.pdf
 ---
 

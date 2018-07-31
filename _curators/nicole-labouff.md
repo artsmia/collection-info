@@ -3,7 +3,7 @@ name: Nicole LaBouff
 slug: nicole-labouff
 department: Decorative Arts, Textiles & Sculpture
 title: |
-  Assistant Curator of Textiles
+  Associate Curator of Textiles
 cv: nicole-labouff.pdf
 ---
 
