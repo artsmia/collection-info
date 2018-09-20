@@ -18,7 +18,7 @@ Contemporary art of the region continues to be represented by the Minnesota Arti
 
 ### Contact
 
-Camille Erickson, Curatorial Department Assistant and Artist Liaison
+Keisha Williams, Curatorial Department Assistant and Artist Liaison
 
 Email: [contemporary@artsmia.org](mailto:contemporary@artsmia.org)
 
