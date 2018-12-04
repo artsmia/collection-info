@@ -15,13 +15,29 @@ Download it if you're interested in exploring data about what art is held in the
 
 ### Images
 
-Images of artworks in Mia's collection are available for download.  The display and available download size of these images reflects the copyright status of the artwork, plus any additional limited usage rights granted to Mia by the rights-holders in these works.
+Images of works of art identified as in the Public Domain (CC PDM) have
+been identified as being free of known restrictions under copyright law,
+including all related and neighboring rights. Mia’s collection contains
+[over 60,000 works in the Public Domain](https://collections.artsmia.org/search/rights_type:"Public
+Domain")! You can copy, modify, distribute
+and perform the works, even for commercial purposes, all without asking
+permission. 
+
+Mia encourages engagement with the contents of our websites in
+accordance with our [Copyright
+Policy](https://new.artsmia.org/copyright-and-image-access/). Depending on copyright status in
+the works of art depicted, users may use, download, and share our
+website images either freely with no restrictions (works in the public
+domain), or with some restrictions (copyrighted works or works with
+other legal restrictions).
 
 <!-- image rights types: (`curl 'https://search.artsmia.org/*?size=1' | jq -r '.aggregations.Rights.buckets[].key' | sed 's/^/* /g'`) -->
 
 Find the download button (<span class="material-icons">file_download</span>) on an [artwork page](https://collections.artsmia.org/art/13611). [Public Domain](/search/rights_type:"Public Domain") artworks can be downloaded in high resolution, while other works [protected by copyright, or where copyright status is not yet known](/search/-rights_type:"Public Domain") are available at a smaller size.
 
 [A number of our images are available on Wikipedia/Wikimedia Commons](https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings/Collection/Minneapolis_Institute_of_Art).
+
+For more information on Copyright and Image Access and Use please see our [Copyright and Image Access Page](https://new.artsmia.org/copyright-and-image-access/)
 
 ### 3D models
 
