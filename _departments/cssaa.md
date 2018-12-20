@@ -31,7 +31,7 @@ Within the galleries there are two Chinese period rooms including an [original r
 
 ### Contact
 
-Allie Mickle, Curatorial Department Assistant
+Coco Banks, Curatorial Department Assistant
 
 Email: [CSSAA@artsmia.org](mailto:cssaa@artsmia.org)
 
