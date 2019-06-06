@@ -18,10 +18,8 @@ Download it if you're interested in exploring data about what art is held in the
 Images of works of art identified as in the Public Domain (CC PDM) have
 been identified as being free of known restrictions under copyright law,
 including all related and neighboring rights. Mia’s collection contains
-[over 60,000 works in the Public Domain](https://collections.artsmia.org/search/rights_type:"Public
-Domain")! You can copy, modify, distribute
-and perform the works, even for commercial purposes, all without asking
-permission. 
+[over 50,000 works in the Public Domain](https://collections.artsmia.org/search/rights_type:"Public Domain")!  You can copy, modify, distribute and perform the works, even
+for commercial purposes, all without asking permission. 
 
 Mia encourages engagement with the contents of our websites in
 accordance with our [Copyright
