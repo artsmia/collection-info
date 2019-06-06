@@ -1,6 +1,6 @@
 ---
 title: Open Access at Mia
-query: 'rights:"Public Domain"'
+query: 'rights_type:"Public Domain"'
 ---
 
 The mission of the Minneapolis Institute of Arts includes making the outstanding works of art in its collections accessible to a global audience – both the objects and what we know about them. Wherever possible, this information will be shared free of charge and with few or no restrictions on its use.
