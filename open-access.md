@@ -15,18 +15,9 @@ Download it if you're interested in exploring data about what art is held in the
 
 ### Images
 
-Images of works of art identified as in the Public Domain (CC PDM) have
-been identified as being free of known restrictions under copyright law,
-including all related and neighboring rights. Mia’s collection contains
-[over 50,000 works in the Public Domain](https://collections.artsmia.org/search/rights_type:"Public Domain")!  You can copy, modify, distribute and perform the works, even
-for commercial purposes, all without asking permission. 
+Images of works of art identified as in the Public Domain (CC PDM) have been identified as being free of known restrictions under copyright law, including all related and neighboring rights. Mia’s collection contains [over 50,000 works in the Public Domain](https://collections.artsmia.org/search/rights_type:"Public Domain")!  You can copy, modify, distribute and perform the works, even for commercial purposes, all without asking permission. 
 
-Mia encourages engagement with the contents of our websites in
-accordance with our [Copyright
-Policy](https://new.artsmia.org/copyright-and-image-access/). Depending on copyright status in
-the works of art depicted, users may use, download, and share our
-website images either freely with no restrictions (works in the public
-domain), or with some restrictions (copyrighted works or works with
+Mia encourages engagement with the contents of our websites in accordance with our [Copyright Policy](https://new.artsmia.org/copyright-and-image-access/). Depending on copyright status in the works of art depicted, users may use, download, and share our website images either freely with no restrictions (works in the public domain), or with some restrictions (copyrighted works or works with
 other legal restrictions).
 
 <!-- image rights types: (`curl 'https://search.artsmia.org/*?size=1' | jq -r '.aggregations.Rights.buckets[].key' | sed 's/^/* /g'`) -->
