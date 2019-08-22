@@ -38,4 +38,4 @@ Abbey Thomsen, Curatorial Department Assistant
 
 Email: [DATS@artsmia.org](mailto:dats@artsmia.org)
 
-Phone: (612) 870-3101
+Phone: (612) 870-6558
