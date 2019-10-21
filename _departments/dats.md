@@ -34,7 +34,7 @@ The department is strong in modernist design, including the [Prairie School-styl
 
 ### Contact
 
-Abbey Thomsen, Curatorial Department Assistant
+Frederica Simmons, Curatorial Department Assistant
 
 Email: [DATS@artsmia.org](mailto:dats@artsmia.org)
 
