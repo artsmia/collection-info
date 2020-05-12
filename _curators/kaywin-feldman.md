@@ -3,6 +3,8 @@ name: Kaywin Feldman
 slug: kaywin-feldman
 department: undefined
 title: Duncan and Nivin MacMillan Director and President
+emeritus: true
+tenure: 2008-2019
 ---
 
 <p>Kaywin Feldman, Director and President of the Minneapolis Institute of Art (Mia) since 2008, is a nationally known museum director and curator. At Mia, Feldman manages an 83,000-object, fine-art collection, housed in a 473,000–square-foot facility, with an annual operating budget of $25 million, and a full-time staff of more than 250.</p>
