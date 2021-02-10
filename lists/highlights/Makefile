@@ -14,10 +14,18 @@ default:
 # To speed this up, open an ssh connection to `dx` and have ssh configured to share connections
 # It finds any list file with a `object_package: $packageId`, then sshs into dx to make an internal
 # API call for the object IDs in that package, and `sed`s them into the file
+#
+# TODO for some reason this only does one file each time, even though it should loop through all?
+# makefile/sh weirdness?
 fillInObjectIDs:
 	@rg -l 'ids: \[\]' *.md | while read file; do \
 			packageId=$$(cat $$file | grep package | sed 's/.* //'); \
 			objectIds=$$(ssh dx "curl --silent http://api.artsmia.org/packages/objects/"$$packageId); \
 			sed  "s|\[\]|$$objectIds|" $$file | sponge $$file; \
-			echo $$file; \
+			echo $$file -- $$objectIds; \
+			continue; \
 		done;
+
+listLinks:
+	@cat *.md | grep listId | sed 's/.*: //' \
+    | parallel echo 'https://collections.artsmia.org/search/_exists_:\"list:{}\"'
