@@ -1,6 +1,6 @@
 ---
 name: Hispanic
-listId: hispanic-american-heritage
+listId: hispanic-heritage
 object_package:
 ids: [608,
 691,
